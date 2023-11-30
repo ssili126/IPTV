@@ -1,6 +1,6 @@
-河北農民,https://epg.pw/stream/77d583a3ce92e660a3aae8d721e57456356ecb45396a4f4c979738dc2832bfd1.m3u8
-河北農民,https://epg.pw/stream/78d7169ffc8f912f6d985b4845193a6487b059a2cb7f1505852562fc19f6c84e.m3u8
-河北農民,http://183.196.25.171:808/hls/22/index.m3u8
-河北農民,http://27.185.1.27:8092/hls/16/index.m3u8
-河北農民,http://xuehanwei.my03.com:8888/udp/239.253.92.176:6006
-河北農民,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+nm1,https://epg.pw/stream/77d583a3ce92e660a3aae8d721e57456356ecb45396a4f4c979738dc2832bfd1.m3u8
+nm2,https://epg.pw/stream/78d7169ffc8f912f6d985b4845193a6487b059a2cb7f1505852562fc19f6c84e.m3u8
+nm3,http://183.196.25.171:808/hls/22/index.m3u8
+nm4,http://27.185.1.27:8092/hls/16/index.m3u8
+nm5,http://xuehanwei.my03.com:8888/udp/239.253.92.176:6006
+nm6,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
