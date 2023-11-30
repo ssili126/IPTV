@@ -1,7 +1,3 @@
-#如果您不知道如何使用這個檔案,或者並沒有時間進行測試,那麼您可以下載我們推薦的APP來進行測試.
-#下載地址為https://epg.pw/app_download.html
-
-中國大陸,#genre#
 CCTV1,https://epg.pw/stream/246edec72dee3430da0407345022a1441d37ef5cda366a27b8eabbcac75aa3f9.m3u8
 CCTV1,https://epg.pw/stream/e516eb85aba9e2cb4110c036e962cc33f916f0a1ad3ba737e95497eaf1f1befb.m3u8
 CCTV1,https://epg.pw/stream/a4f6e6163319cb6ad59892a54343f514a9ff20917af903f2ee1818e005f43202.m3u8
@@ -391,7 +387,6 @@ cctv-11戏曲,https://epg.pw/stream/0cb8d4fa5b25ff0deb5be55bf1ca887da769736d8c2b
 石家庄新闻综合,https://epg.pw/stream/33131b8c9de340ac28a25750555008f478ee45cc9aaf1c97f6b24fb61b72a86d.m3u8
 石家庄新闻综合,https://epg.pw/stream/9e45ca009cb136a2c587877809bf940e12f22d9a4c2a98f7551157b0c1861724.m3u8
 石家庄都市1,https://epg.pw/stream/de65f82aee82beb140a0d077456efbf1cf0aa8927b52f107acc45775c4f8d471.m3u8
-中國大陸地方台,#genre#
 河北影視,https://epg.pw/stream/f927788e08949e5333ad97affc4fb4b9649bef97948e0794f1ec0936054bd8c3.m3u8
 河北影視,https://epg.pw/stream/68c155020b8d64ed96a8c193a78ccaf7de7ddc4643184145d8287b1f34020caf.m3u8
 河北影視劇,https://epg.pw/stream/cd80758bd915400c4578aaac898f15065ffa1ad55f043648c0f347ac7e690efc.m3u8
