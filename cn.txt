@@ -1075,8 +1075,12 @@ NewTV超級電影[ipv6],https://epg.pw/stream/6a37439d92dc180a0b4e0f9e0603337124
 河北影視劇,https://epg.pw/stream/cd80758bd915400c4578aaac898f15065ffa1ad55f043648c0f347ac7e690efc.m3u8
 河北影視劇,https://epg.pw/stream/c052b9f414bbbf9c00616f9184da6d11fa730d903171e2ae8d1ef1b80538f600.m3u8
 河北影視劇,https://epg.pw/stream/d5b93504c6e8ecb257d7ee51dffb74c2e323331e7daa2f08ee9e7ee7f249e1f7.m3u8
-河北農民,https://epg.pw/stream/77d583a3ce92e660a3aae8d721e57456356ecb45396a4f4c979738dc2832bfd1.m3u8
+河北農民,http://183.196.25.171:808/hls/22/index.m3u8
 河北農民,https://epg.pw/stream/78d7169ffc8f912f6d985b4845193a6487b059a2cb7f1505852562fc19f6c84e.m3u8
+河北農民,http://27.185.1.27:8092/hls/16/index.m3u8
+河北農民,http://xuehanwei.my03.com:8888/udp/239.253.92.176:6006
+河北農民,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+河北農民,https://epg.pw/stream/77d583a3ce92e660a3aae8d721e57456356ecb45396a4f4c979738dc2832bfd1.m3u8
 浙江|平湖新闻综合,https://epg.pw/stream/2196c2cf1a0af5224542f776d0bce880acf323b215d4a8687b8f70bf80fed369.m3u8
 浙江|平湖新闻综合,https://epg.pw/stream/04f0e3dab80490d6b7822a1fd469254d3b727fe3d9ea61edcaa95aa4a3b370ef.m3u8
 浙江|绍兴公共,https://epg.pw/stream/0ec806bda9af17c82743c04f02f3f4ec7794cccd32cdc63b6633ddfbc20bdc44.m3u8
