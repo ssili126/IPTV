@@ -5,6 +5,9 @@
 农民频道,http://27.185.1.27:8092/hls/16/index.m3u8
 任丘文娱,https://jwcdnqx.hebyun.com.cn/live/rqtv2/1500k/tzwj_video.m3u8
 梨园频道,http://81.69.20.196/mqlive.m3u8?ip=120.2.68.35:10000&id=live1077
+梨园频道,http://live.dxhmt.cn:9080/19903718786/3159ec673c114135816d45dd52ad7396.m3u8
+梨园频道,http://live.goodiptv.club/api/sxg.php?id=ly_4000
+梨园频道,https://live.goodiptv.club/api/sxg.php?id=ly_4000
 河北都市,http://tv.pull.hebtv.com/jishi/dushipindao.m3u8?t=2510710360&k=0a371e84fa6980927f5b617687e1ad11
 河北都市,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel13005/index.m3u8
 河北都市,https://tv.pull.hebtv.com/jishi/dushipindao.m3u8?t=2510710360&k=0a371e84fa6980927f5b617687e1ad11
