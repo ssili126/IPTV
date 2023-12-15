@@ -5,7 +5,7 @@
 
 #### 使用说明
 
-1.  cy.txt 为个人常用的河北及央视频道
+1.  cy.txt 为个人常用的河北及央视频道 直播软件下载：https://www.rjcxb.com/category/apk/tvapk
 2.  cyf.txt 为个人常用的河北及央视频道（有分类标签）
 3.  epg.txt 为从https://epg.pw/test_channel_page.html?lang=zh-hant 下载的国内频道
 4.  https://epg.pw/test_channels.m3u
