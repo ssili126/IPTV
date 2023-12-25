@@ -5,11 +5,14 @@
 农民频道,http://183.196.25.171:808/hls/22/index.m3u8
 农民频道,http://27.185.1.27:8092/hls/16/index.m3u8
 任丘文娱,https://jwcdnqx.hebyun.com.cn/live/rqtv2/1500k/tzwj_video.m3u8
-梨园频道,http://81.69.20.196/mqlive.m3u8?ip=120.2.68.35:10000&id=live1077
-梨园频道,http://live.dxhmt.cn:9080/19903718786/3159ec673c114135816d45dd52ad7396.m3u8
 梨园频道,http://cdn001.tui8.de:9901/tsfile/live/1021_1.m3u8
+梨园频道,http://113.88.14.83:4022/rtp/239.77.1.100:5146
+梨园频道,http://live.dxhmt.cn:9080/19903718786/3159ec673c114135816d45dd52ad7396.m3u8
+梨园频道,http://60.25.112.61:8888/rtp/225.1.2.104:5002
+梨园频道,http://81.69.20.196/mqlive.m3u8?ip=120.2.68.35:10000&id=live1077
 梨园频道,http://live.goodiptv.club/api/sxg.php?id=ly_4000
 梨园频道,https://live.goodiptv.club/api/sxg.php?id=ly_4000
+
 戏曲频道,http://222.134.240.136:9901/tsfile/live/1058_1.m3u8
 河北都市,http://tv.pull.hebtv.com/jishi/dushipindao.m3u8?t=2510710360&k=0a371e84fa6980927f5b617687e1ad11
 河北都市,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel13005/index.m3u8
@@ -31,6 +34,8 @@
 石家庄娱乐,http://pluslive1.sjzntv.cn/yule/playlist.m3u8
 
 央视频道,#genre#
+
+
 CCTV1,http://39.164.138.239:8887/chs01.m3u8
 CCTV2,http://39.164.138.239:8887/chs02.m3u8
 CCTV3,http://39.164.138.239:8887/chs03.m3u8
@@ -48,6 +53,184 @@ CCTV13,http://39.164.138.239:8887/chs14.m3u8
 CCTV14,http://39.164.138.239:8887/chs15.m3u8
 CCTV15,http://39.164.138.239:8887/chs16.m3u8
 CCTV17,http://39.164.138.239:8887/chs17.m3u8
+
+CCTV1,http://106.57.0.39:55555/rtp/239.200.201.135:8880
+CCTV1,http://219.156.52.203:4000/rtp/225.1.4.73:1102
+CCTV1,http://61.169.37.218:9901/tsfile/live/24301_1.m3u8?key=txiptv
+CCTV1,http://121.237.53.178:8888/rtp/239.49.8.19:9614
+CCTV1,http://121.237.53.178:8888/rtp/239.49.8.129:6000
+CCTV1,http://122.231.252.147:8888/rtp/233.50.201.118:5140
+CCTV1,http://113.57.109.36:9901/tsfile/live/0001_1.m3u8?key=txiptv
+CCTV1,http://221.7.175.154:8445/tsfile/live/1000_1.m3u8?key=txiptv
+CCTV1,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000210103.m3u8
+CCTV1,http://cfss.cc/ds/bst.php?id=Cf-1
+CCTV2,http://175.0.104.37:8888/rtp/239.1.0.119:1025
+CCTV2,http://113.57.109.36:9901/tsfile/live/0002_1.m3u8?key=txiptv
+CCTV2,http://218.76.54.101:9901/tsfile/live/0002_1.m3u8?key=txiptv
+CCTV2,http://221.7.175.154:8445/tsfile/live/1001_1.m3u8?key=txiptv
+CCTV2,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203603.m3u8
+CCTV2,https://tv.smart-chat.net/migu.php?id=cctv2
+CCTV2,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel2/index.m3u8
+CCTV2,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
+CCTV2,http://113.13.173.127:6666/rtp/239.81.0.14:4056
+CCTV3,http://122.231.252.147:8888/rtp/233.50.201.196:5140
+CCTV3,http://218.76.54.101:9901/tsfile/live/0003_1.m3u8?key=txiptv
+CCTV3,http://221.7.175.154:8445/tsfile/live/1002_1.m3u8?key=txiptv
+CCTV3,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203803.m3u8
+CCTV3,http://cfss.cc/ds/bst.php?id=Cf-3
+CCTV3,http://124.92.89.244:6000/rtp/232.0.0.170:1234
+CCTV3,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel3/index.m3u8
+CCTV3,http://112.226.82.69:1029/rtp/239.253.254.4:8000
+CCTV4,http://113.13.173.127:6666/rtp/239.81.0.96:4056
+CCTV4,http://219.156.52.203:4000/rtp/225.1.5.30:1333
+CCTV4,http://175.0.104.37:8888/rtp/239.1.0.121:1025
+CCTV4,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204803.m3u8
+CCTV4,http://218.76.54.101:9901/tsfile/live/0004_1.m3u8?key=txiptv
+CCTV4,http://221.7.175.154:8445/tsfile/live/1003_1.m3u8?key=txiptv
+CCTV4,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel4/index.m3u8
+CCTV4,http://219.156.52.203:4000/rtp/225.1.4.4:1033
+CCTV4,https://tv.smart-chat.net/migu.php?id=cctv4o
+CCTV5,http://61.169.37.218:9901/tsfile/live/24305_1.m3u8?key=txiptv
+CCTV5,http://121.237.53.178:8888/rtp/239.49.8.170:6000
+CCTV5,http://121.237.53.178:8888/rtp/239.49.8.172:6000
+CCTV5,http://122.231.252.147:8888/rtp/233.50.201.197:5140
+CCTV5,http://113.57.109.36:9901/tsfile/live/0005_1.m3u8?key=txiptv
+CCTV5,http://218.76.54.101:9901/tsfile/live/0005_1.m3u8?key=txiptv
+CCTV5,http://221.7.175.154:8445/tsfile/live/0113_1.m3u8?key=txiptv
+CCTV5,http://124.92.89.244:6000/rtp/232.0.0.171:1234
+CCTV5+,http://113.88.14.83:4022/rtp/239.77.1.31:5146
+CCTV5+,http://221.7.175.154:8445/tsfile/live/1018_1.m3u8?key=txiptv
+CCTV5+,http://cfss.cc/api/ysp/cctv5p.m3u8
+CCTV5+,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel13/index.m3u8
+CCTV5+,http://113.88.14.83:4022/rtp/239.77.1.146:5146
+CCTV6,http://175.0.104.37:8888/rtp/239.1.0.123:1025
+CCTV6,http://61.169.37.218:9901/tsfile/live/24306_1.m3u8?key=txiptv
+CCTV6,http://122.231.252.147:8888/rtp/233.50.201.198:5140
+CCTV6,http://218.76.54.101:9901/tsfile/live/0006_1.m3u8?key=txiptv
+CCTV6,http://113.57.109.36:9901/tsfile/live/0006_1.m3u8?key=txiptv
+CCTV6,http://221.7.175.154:8445/tsfile/live/1004_1.m3u8?key=txiptv
+CCTV6,https://tv.smart-chat.net/migu.php?id=cctv6
+CCTV6,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel6/index.m3u8
+CCTV6,http://112.226.82.69:1029/rtp/239.253.254.7:8000
+CCTV6,http://113.88.14.83:4022/rtp/239.77.0.35:5146
+CCTV7,http://113.88.14.83:4022/rtp/239.77.0.138:5146
+CCTV7,http://219.156.52.203:4000/rtp/225.1.4.76:1105
+CCTV7,http://221.7.175.154:8445/tsfile/live/1005_1.m3u8?key=txiptv
+CCTV7,http://113.57.109.36:9901/tsfile/live/0007_1.m3u8?key=txiptv
+CCTV7,http://cfss.cc/ds/bst.php?id=Cf-8
+CCTV7,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000510002.m3u8
+CCTV7,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel7/index.m3u8
+CCTV7,http://113.13.173.127:6666/rtp/239.81.0.19:4056
+CCTV7,http://113.88.14.83:4022/rtp/239.77.0.36:5146
+CCTV7,http://112.226.82.69:1029/rtp/239.253.254.8:8000
+CCTV8,http://175.0.104.37:8888/rtp/239.1.0.125:1025
+CCTV8,http://61.169.37.218:9901/tsfile/live/24308_1.m3u8?key=txiptv
+CCTV8,http://122.231.252.147:8888/rtp/233.50.201.199:5140
+CCTV8,http://218.76.54.101:9901/tsfile/live/0008_1.m3u8?key=txiptv
+CCTV8,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203903.m3u8
+CCTV8,http://221.7.175.154:8445/tsfile/live/1006_1.m3u8?key=txiptv
+CCTV8,https://tv.smart-chat.net/migu.php?id=cctv8
+CCTV8,http://112.226.82.69:1029/rtp/239.253.254.9:8000
+CCTV8,http://113.88.14.83:4022/rtp/239.77.0.37:5146
+CCTV8,http://121.237.53.178:8888/rtp/239.49.0.8:9578
+CCTV8,http://121.237.53.178:8888/rtp/239.49.1.8:6000
+CCTV9,http://113.13.173.127:6666/rtp/239.81.0.117:4056
+CCTV9,http://113.88.14.83:4022/rtp/239.77.1.160:5146
+CCTV9,http://219.156.52.203:4000/rtp/225.1.4.77:1106
+CCTV9,http://113.88.14.83:4022/rtp/239.77.0.135:5146
+CCTV9,http://113.57.109.36:9901/tsfile/live/0009_1.m3u8?key=txiptv
+CCTV9,http://218.76.54.101:9901/tsfile/live/0009_1.m3u8?key=txiptv
+CCTV9,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000499403.m3u8
+CCTV9,http://221.7.175.154:8445/tsfile/live/1007_1.m3u8?key=txiptv
+CCTV9,http://cfss.cc/ds/bst.php?id=Cf-10
+CCTV9,http://124.92.89.244:6000/rtp/232.0.0.137:1234
+CCTV9,http://113.88.14.83:4022/rtp/239.77.0.38:5146
+CCTV10,http://113.13.173.127:6666/rtp/239.81.0.118:4056
+CCTV10,http://113.88.14.83:4022/rtp/239.77.1.169:5146
+CCTV10,http://175.0.104.37:8888/rtp/239.1.0.127:1025
+CCTV10,http://122.231.252.147:8888/rtp/233.50.201.122:5140
+CCTV10,http://113.57.109.36:9901/tsfile/live/0010_1.m3u8?key=txiptv
+CCTV10,http://221.7.175.154:8445/tsfile/live/1008_1.m3u8?key=txiptv
+CCTV10,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000203503.m3u8
+CCTV10,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel10/index.m3u8
+CCTV10,http://113.88.14.83:4022/rtp/239.77.1.25:5146
+CCTV10,http://112.226.82.69:1029/rtp/239.253.254.11:8000
+CCTV10,http://121.237.53.178:8888/rtp/239.49.1.10:6000
+CCTV11,http://113.13.173.127:6666/rtp/239.81.0.229:4056
+CCTV11,http://113.88.14.83:4022/rtp/239.77.1.238:5146
+CCTV11,http://113.57.109.36:9901/tsfile/live/0011_1.m3u8?key=txiptv
+CCTV11,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204103.m3u8
+CCTV11,http://cfss.cc/ds/bst.php?id=Cf-12
+CCTV11,http://113.88.14.83:4022/rtp/239.77.0.40:5146
+CCTV11,http://219.156.52.203:4000/rtp/225.1.4.11:1040
+CCTV11,http://121.237.53.178:8888/rtp/239.49.0.11:8080
+CCTV11,http://121.237.53.178:8888/rtp/239.49.1.11:6000
+CCTV12,http://113.13.173.127:6666/rtp/239.81.0.119:4056
+CCTV12,http://122.231.252.147:8888/rtp/233.50.201.123:5140
+CCTV12,http://113.57.109.36:9901/tsfile/live/0012_1.m3u8?key=txiptv
+CCTV12,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000202603.m3u8
+CCTV12,http://cfss.cc/ds/bst.php?id=Cf-13
+CCTV12,http://221.7.175.154:8445/tsfile/live/1010_1.m3u8?key=txiptv
+CCTV12,http://113.88.14.83:4022/rtp/239.77.1.10:5146
+CCTV12,http://112.226.82.69:1029/rtp/239.253.254.13:8000
+CCTV13,http://113.88.14.83:4022/rtp/239.77.0.188:5146
+CCTV13,http://175.0.104.37:8888/rtp/239.1.0.144:1025
+CCTV13,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204603.m3u8
+CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+CCTV13,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel39/index.m3u8
+CCTV13,http://113.13.173.127:6666/rtp/239.81.0.26:4056
+CCTV13,http://219.156.52.203:4000/rtp/225.1.4.13:1042
+CCTV13,http://112.226.82.69:1029/rtp/239.253.254.14:8000
+CCTV14,http://113.13.173.127:6666/rtp/239.81.0.120:4056
+CCTV14,http://175.0.104.37:8888/rtp/239.1.0.129:1025
+CCTV14,http://113.88.14.83:4022/rtp/239.77.0.133:5146
+CCTV14,http://122.231.252.147:8888/rtp/233.50.201.124:5140
+CCTV14,http://113.57.109.36:9901/tsfile/live/0014_1.m3u8?key=txiptv
+CCTV14,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204403.m3u8
+CCTV14,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel12/index.m3u8
+CCTV14,http://113.88.14.83:4022/rtp/239.77.0.43:5146
+CCTV15,http://113.13.173.127:6666/rtp/239.81.0.230:4056
+CCTV15,http://175.0.104.37:8888/rtp/239.1.0.204:1025
+CCTV15,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000205003.m3u8
+CCTV15,http://cfss.cc/ds/bst.php?id=Cf-16
+CCTV15,https://tv.smart-chat.net/migu.php?id=cctv15
+CCTV15,http://113.88.14.83:4022/rtp/239.77.1.11:5146
+CCTV15,http://219.156.52.203:4000/rtp/225.1.4.15:1044
+CCTV15,http://112.226.82.69:1029/rtp/239.253.254.16:8000
+CCTV15,http://121.237.53.178:8888/rtp/239.49.1.15:6000
+CCTV15,http://121.237.53.178:8888/rtp/239.49.0.15:8112
+CCTV16,http://113.88.14.83:4022/rtp/239.77.1.76:5146
+CCTV16,http://122.231.252.147:8888/rtp/233.50.201.192:5140
+CCTV16,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012375003.m3u8
+CCTV17,http://113.13.173.127:6666/rtp/239.81.0.228:4056
+CCTV17,http://219.156.52.203:4000/rtp/225.1.4.226:2506
+CCTV17,http://113.88.14.83:4022/rtp/239.77.1.121:5146
+CCTV17,http://175.0.104.37:8888/rtp/239.1.0.209:1025
+CCTV17,http://221.7.175.154:8445/tsfile/live/1009_1.m3u8?key=txiptv
+CCTV17,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000204203.m3u8
+CCTV17,http://124.92.89.244:6000/rtp/232.0.0.230:1234
+CCTV17,http://113.88.14.83:4022/rtp/239.77.0.115:5146
+
+
+CCTV1,http://live.aishang.ctlcdn.com/00000110240127_1/encoder/0/playlist.m3u8?CONTENTID=00000110240127_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CCTV2,http://live.aishang.ctlcdn.com/00000110240244_1/encoder/0/playlist.m3u8?CONTENTID=00000110240244_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CCTV3,http://live.aishang.ctlcdn.com/00000110240245_1/encoder/0/playlist.m3u8?CONTENTID=00000110240245_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CCTV4,http://live.aishang.ctlcdn.com/00000110240316_1/encoder/0/playlist.m3u8?CONTENTID=00000110240316_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CCTV5,http://live.aishang.ctlcdn.com/00000110240246_1/encoder/0/playlist.m3u8?CONTENTID=00000110240246_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CCTV6,http://live.aishang.ctlcdn.com/00000110240247_1/encoder/0/playlist.m3u8?CONTENTID=00000110240247_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CCTV7,http://live.aishang.ctlcdn.com/00000110240248_1/encoder/0/playlist.m3u8?CONTENTID=00000110240248_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CCTV8,http://live.aishang.ctlcdn.com/00000110240249_1/encoder/0/playlist.m3u8?CONTENTID=00000110240249_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CCTV9,http://live.aishang.ctlcdn.com/00000110240250_1/encoder/0/playlist.m3u8?CONTENTID=00000110240250_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CCTV10,http://live.aishang.ctlcdn.com/00000110240251_1/encoder/0/playlist.m3u8?CONTENTID=00000110240251_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CCTV11,http://live.aishang.ctlcdn.com/00000110240328_1/encoder/0/playlist.m3u8?CONTENTID=00000110240328_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CCTV12,http://live.aishang.ctlcdn.com/00000110240252_1/encoder/0/playlist.m3u8?CONTENTID=00000110240252_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CCTV13,http://live.aishang.ctlcdn.com/00000110240502_1/playlist.m3u8?CONTENTID=00000110240502_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CCTV14,http://live.aishang.ctlcdn.com/00000110240253_1/playlist.m3u8?CONTENTID=00000110240253_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CCTV15,http://live.aishang.ctlcdn.com/00000110240329_1/playlist.m3u8?CONTENTID=00000110240329_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CCTV16,http://live.aishang.ctlcdn.com/00000110240388_1/playlist.m3u8?CONTENTID=00000110240388_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CCTV17,http://live.aishang.ctlcdn.com/00000110240326_1/playlist.m3u8?CONTENTID=00000110240326_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CCTV5+,http://live.aishang.ctlcdn.com/00000110240128_1/playlist.m3u8?CONTENTID=00000110240128_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+
 CCTV1,http://tvpull.dxhmt.cn/tv/11481-4.m3u8
 CCTV1,http://alivealone.litenews.cn/301/b597ff6aa9cb40aba57bb011b13865ad.flv
 CCTV1,http://222.85.207.79:9901/hls/1/index.m3u8
@@ -194,6 +377,24 @@ CCTV17,http://91tv.top:9901/hls/1016/index.m3u8
 书画频道,http://211.103.180.178:8234/live_hls/hdmi.m3u8
 文物宝库,http://php.jdshipin.com:8880/hntv.php?id=wwbk
 
+CCTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
+CCTV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
+CCTV3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
+CCTV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
+CCTV5,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+CCTV5+,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
+CCTV6,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
+CCTV7,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
+CCTV8,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
+CCTV9,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
+CCTV10,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
+CCTV11,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226240/index.m3u8
+CCTV12,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8
+CCTV13,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
+CCTV14,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
+CCTV15,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
+CCTV16,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
+CCTV17,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
 
 CCTV1,http://play.kankanlive.com/live/1661761962676984.flv
 CCTV1,http://223.95.111.98:5555/newlive/live/hls/1/live.m3u8
@@ -500,6 +701,7 @@ RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/str
 
 
 绝对有戏,#genre#
+2023.12.24,https://video.cmc.hebtv.com/0/0d91d6cfb98f5b206ac1e752757fc5a9/2023/12/25/fb60417499574845bdc45abfd9e13911_1920_1080.mp4
 2023.12.17,https://video.cmc.hebtv.com/0/0d91d6cfb98f5b206ac1e752757fc5a9/2023/12/18/888f1d2320784de8887415b44be81daa_1920_1080.mp4
 2023.12.16,https://video.cmc.hebtv.com/0/0d91d6cfb98f5b206ac1e752757fc5a9/2023/12/17/bf2811f926cd4e308452c4aec7f290f7_1920_1080.mp4
 2023.12.10,https://video.cmc.hebtv.com/0/0d91d6cfb98f5b206ac1e752757fc5a9/2023/12/11/2b2a52b011bf430ca96e91fe0e0ae3f8_1920_1080.mp4
@@ -510,6 +712,7 @@ RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/str
 2023.11.12,https://video.cmc.hebtv.com/0/0d91d6cfb98f5b206ac1e752757fc5a9/2023/11/13/86c6b42548944f6b94b037a10a6d40ad_1920_1080.mp4
 2023.11.05,https://video.cmc.hebtv.com/0/0d91d6cfb98f5b206ac1e752757fc5a9/2023/11/06/29d345e25eaa454396ec87534832040d_1920_1080.mp4
 男过女人关,#genre#
+2023.12.23,https://video.cmc.hebtv.com/0/0d91d6cfb98f5b206ac1e752757fc5a9/2023/12/24/ec4a46ebb5aa4fc9a919b8a545647224_1920_1080.mp4
 2023.12.02,https://video.cmc.hebtv.com/0/0d91d6cfb98f5b206ac1e752757fc5a9/2023/12/04/e58079764c3646b7babb8f75306644b7_1920_1080.mp4
 2023.11.25,https://video.cmc.hebtv.com/0/0d91d6cfb98f5b206ac1e752757fc5a9/2023/11/27/4843cc62d5f64b0a85391c2f4b4e1c67_1920_1080.mp4
 2023.11.18,https://video.cmc.hebtv.com/0/0d91d6cfb98f5b206ac1e752757fc5a9/2023/11/20/bb977986ce3741179f90641e3c00a34c_1920_1080.mp4
@@ -756,46 +959,3 @@ CCTV17音频,https://piccpndali.v.myalicdn.com/audio/cctv17_2.m3u8
 最佳酒友,https://vd3.bdstatic.com/mda-jheqyidz841gwxpy/hd/mda-jheqyidz841gwxpy.mp4
 整容归来,https://vd3.bdstatic.com/mda-ji1xe9cmasuh0722/hd/mda-ji1xe9cmasuh0722.mp4
 老王卖瓜,https://vd3.bdstatic.com/mda-jkrk9bk95f9utr9r/hd/mda-jkrk9bk95f9utr9r.mp4
-
-
-铁齿铜牙纪晓岚,#genre#
-铁齿铜牙纪晓岚I 第一集,https://txmov2.a.kwimgs.com/bs3/video-hls/5189835685412341493_hlshd15.m3u8
-铁齿铜牙纪晓岚I 第二集,https://txmov2.a.kwimgs.com/bs3/video-hls/5201376159691089640_hlshd15.m3u8
-铁齿铜牙纪晓岚I 第三集,https://txmov2.a.kwimgs.com/bs3/video-hls/5239375284210688597_hlshd15.m3u8
-铁齿铜牙纪晓岚I 第四集,https://txmov2.a.kwimgs.com/bs3/video-hls/5239093806455146697_hlshd15.m3u8
-铁齿铜牙纪晓岚I 第五集,https://txmov2.a.kwimgs.com/bs3/video-hls/5223331208477788648_hlshd15.m3u8
-铁齿铜牙纪晓岚I 第六集,https://txmov2.a.kwimgs.com/bs3/video-hls/5241064134569936292_hlshd15.m3u8
-铁齿铜牙纪晓岚I 第七集,https://txmov2.a.kwimgs.com/bs3/video-hls/5205035333929238923_hlshd15.m3u8
-铁齿铜牙纪晓岚I 第八集,https://txmov2.a.kwimgs.com/bs3/video-hls/5204753861695148760_hlshd15.m3u8
-铁齿铜牙纪晓岚I 第九集,https://txmov2.a.kwimgs.com/bs3/video-hls/5246975105769336824_hlshd15.m3u8
-铁齿铜牙纪晓岚I 第十集,https://txmov2.a.kwimgs.com/bs3/video-hls/5256545257134268388_hlshd15.m3u8
-铁齿铜牙纪晓岚I 第十一集,https://txmov2.a.kwimgs.com/bs3/video-hls/5192931913725958598_hlshd15.m3u8
-铁齿铜牙纪晓岚I 第十二集,https://txmov2.a.kwimgs.com/bs3/video-hls/5209820410839986526_hlshd15.m3u8
-铁齿铜牙纪晓岚I 第十三集,https://txmov2.a.kwimgs.com/bs3/video-hls/5246130680974234085_hlshd15.m3u8
-铁齿铜牙纪晓岚I和第十四集,https://txmov2.a.kwimgs.com/bs3/video-hls/5199405834544758981_hlshd15.m3u8
-铁齿铜牙纪晓岚I第十五集,https://txmov2.a.kwimgs.com/bs3/video-hls/5218827610233741606_hlshd15.m3u8
-铁齿铜牙纪晓岚I 第十六集,https://txmov2.a.kwimgs.com/bs3/video-hls/5225301535927917986_hlshd15.m3u8
-铁齿铜牙纪晓岚I 第十七集,https://txmov2.a.kwimgs.com/bs3/video-hls/5188146839016561493_hlshd15.m3u8
-铁齿铜牙纪晓岚I 第十八集,https://txmov2.a.kwimgs.com/bs3/video-hls/5227834807765583966_hlshd15.m3u8
-铁齿铜牙纪晓岚I 第十九集,https://txmov2.a.kwimgs.com/bs3/video-hls/5193494862341579373_hlshd15.m3u8
-铁齿铜牙纪晓岚I 第二十集,https://txmov2.a.kwimgs.com/bs3/video-hls/5212916635971219079_hlshd15.m3u8
-铁齿铜牙纪晓岚I 第二十一集,https://txmov2.a.kwimgs.com/bs3/video-hls/5204753859831730416_hlshd15.m3u8
-铁齿铜牙纪晓岚I 第二十二集,https://txmov2.a.kwimgs.com/bs3/video-hls/5231212507018901825_hlshd15.m3u8
-铁齿铜牙纪晓岚I 第二十三集,https://txmov2.a.kwimgs.com/bs3/video-hls/5192368963062536528_hlshd15.m3u8
-铁齿铜牙纪晓岚I 第二十四集,https://txmov2.a.kwimgs.com/bs3/video-hls/5201094687267977284_hlshd15.m3u8
-铁齿铜牙纪晓岚I 第二十五集,https://txmov2.a.kwimgs.com/bs3/video-hls/5234590207910516390_hlshd15.m3u8
-铁齿铜牙纪晓岚I 第二十六集,https://txmov2.a.kwimgs.com/bs3/video-hls/5201094686875682859_hlshd15.m3u8
-铁齿铜牙纪晓岚I 第二十七集,https://txmov2.a.kwimgs.com/bs3/video-hls/5189835688572881329_hlshd15.m3u8
-铁齿铜牙纪晓岚I 第二十八集,https://txmov2.a.kwimgs.com/bs3/video-hls/5207287136691571086_hlshd15.m3u8
-铁齿铜牙纪晓岚I 第二十九集,https://txmov2.a.kwimgs.com/bs3/video-hls/5215731384946903562_hlshd15.m3u8
-铁齿铜牙纪晓岚I 第三十集,https://txmov2.a.kwimgs.com/bs3/video-hls/5239938232785864559_hlshd15.m3u8
-铁齿铜牙纪晓岚I 第三十一集,https://txmov2.a.kwimgs.com/bs3/video-hls/5229805135145666354_hlshd15.m3u8
-铁齿铜牙纪晓岚I 第三十二集,https://txmov2.a.kwimgs.com/bs3/video-hls/5226708907786597436_hlshd15.m3u8
-铁齿铜牙纪晓岚I 第三十三集,https://txmov2.a.kwimgs.com/bs3/video-hls/5200813211459409876_hlshd15.m3u8
-铁齿铜牙纪晓岚I 第三十四集,https://txmov2.a.kwimgs.com/bs3/video-hls/5212916635485360589_hlshd15.m3u8
-铁齿铜牙纪晓岚I 第三十五集,https://txmov2.a.kwimgs.com/bs3/video-hls/5214324012111359331_hlshd15.m3u8
-铁齿铜牙纪晓岚I 第三十六集,https://txmov2.a.kwimgs.com/bs3/video-hls/5201657637463988722_hlshd15.m3u8
-铁齿铜牙纪晓岚I 第三十七集,https://txmov2.a.kwimgs.com/bs3/video-hls/5226708909787936610_hlshd15.m3u8
-铁齿铜牙纪晓岚I 第三十八集,https://txmov2.a.kwimgs.com/bs3/video-hls/5244160358049310930_hlshd15.m3u8
-铁齿铜牙纪晓岚I 第三十九集,https://txmov2.a.kwimgs.com/bs3/video-hls/5224457108637573625_hlshd15.m3u8
-铁齿铜牙纪晓岚I 第四十集,https://txmov2.a.kwimgs.com/bs3/video-hls/5257671154675984197_hlshd15.m3u8
